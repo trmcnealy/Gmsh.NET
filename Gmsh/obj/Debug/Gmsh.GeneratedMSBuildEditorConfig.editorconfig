@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Gmsh
+build_property.ProjectDir = D:\TFS_Sources\EngineeringTools\Utilities\Gmsh.NET\Gmsh\

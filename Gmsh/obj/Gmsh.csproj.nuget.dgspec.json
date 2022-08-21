@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TFS_Sources\\EngineeringTools\\Utilities\\Gmsh.NET\\Gmsh\\Gmsh.csproj": {}
+  },
+  "projects": {
+    "D:\\TFS_Sources\\EngineeringTools\\Utilities\\Gmsh.NET\\Gmsh\\Gmsh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TFS_Sources\\EngineeringTools\\Utilities\\Gmsh.NET\\Gmsh\\Gmsh.csproj",
+        "projectName": "Gmsh",
+        "projectPath": "D:\\TFS_Sources\\EngineeringTools\\Utilities\\Gmsh.NET\\Gmsh\\Gmsh.csproj",
+        "packagesPath": "C:\\Users\\trmcnealy\\.nuget\\packages\\",
+        "outputPath": "D:\\TFS_Sources\\EngineeringTools\\Utilities\\Gmsh.NET\\Gmsh\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Programs\\Syncfusion\\EssentialStudio\\WPF\\19.4.0.38\\ToolboxNuGetPackages"
+        ],
+        "configFilePaths": [
+          "D:\\TFS_Sources\\EngineeringTools\\NuGet.Config",
+          "C:\\Users\\trmcnealy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Syncfusion Toolbox for WPF.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "D:\\AssemblyCache\\_packages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/azure-public/winsdk/_packaging/CI/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-experimental/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSMPIDIST": {
+              "target": "Package",
+              "version": "[10.1.12498.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
+              "version": "[6.0.3, 6.0.3]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
